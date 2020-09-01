@@ -2,7 +2,7 @@
 
 The Link to the deployed page is [User-Centric-Frontend-Milestone-Project](https://craigf20.github.io/User-Centric-Frontend-Milestone-Project/)
 
-This is my first webpage and my idea was to make an online Portfolio/ Resume for my wife. 
+This is my first webpage and my idea was to make an online Portfolio/ Resume for my wife. The overall idea for the website is to promote her in a way where she is able to get hired for work within the Journalism world. It is aimed to promote her work and skillset to potential employers with scope for people to get in touch with her too.
 
 The fonts are coming from Google Fonts which can be seen across all pages.
 
@@ -74,11 +74,11 @@ Doing it this way I realised was somewhat time consuming so I decided to begin e
 
 Using this I was able to design the site to be viewed on smaller screens in comparision to just laptops, in doing so I hope I have been able to make a responsive website. 
 
-<hr>
+Having the website open when coding it and just refreshing the page when something new was added was a great help and as well as this it allowed me to test my Social Media links straight away. I tested each one during making them one after another, then tested them on all the following pages. With each working I was happy they are reliable enough to use. 
 
-<h4>What was missed/Uncertainties:</h4>
+The buttons on the navigation system of course was tested in a similar process, write the code and then see if they work on the preview version of the site. With each page being made I made sure they worked in all three. As well as this, they needed to allow the user to go between all pages otherwise they are redundant, gladly all working fine. 
 
-
+The later buttons within the "Portfolio" page was tested the most to make sure they fully wokred. To test correctly I would write the code, refresh the preview version and click them to see if they did as they were supposed too. After getting one right it was a matter of copying and pasting, just changing the desired URL in each afterwards then making sure it took me there without closing the original page. All working well. 
 
 <hr>
 
